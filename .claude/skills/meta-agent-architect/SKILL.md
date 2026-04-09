@@ -1,6 +1,6 @@
 ---
 name: meta-agent-architect
-description: Phân tích dự án và thiết kế Multi-Agent Team chuẩn Anthropic. Tạo/cải tiến file .claude/agents/agents.md. Use when user asks to design, build, review or optimize AI team / agents.
+description: Phân tích dự án và thiết kế Multi-Agent Team chuẩn Anthropic. Tạo/cải tiến file .claude/agents/agents.md. Use when user asks to add, create, design, build, review or optimize AI agents / team agents.
 ---
 
 # Meta Agent Architect
@@ -11,6 +11,8 @@ Xác định các Agent (persona) cần thiết và tạo file `.claude/agents/a
 ## When to use this skill
 - “xác định agents”, “thiết kế team agent”, “build multi-agent”
 - “review team agent”, “cải tiến agents”
+- "thêm agent", "tạo agent mới", "tôi cần agent cho X"    
+- User đề cập vai trò cần agent (BA, PM, DevOps, QA...)  
 
 ## Instructions
 1. Phân tích dự án.
